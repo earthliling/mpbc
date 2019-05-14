@@ -1,0 +1,163 @@
+Algeria	Condor	
+Bangladesh	Walton	
+Brazil	Gradiente	
+Brazil	Positivo	
+Canada	BlackBerry Limited	hardware development delegated to TCL
+Canada	DataWind	
+China	10.Or	manufactured by Huaqin Telecom Technology Co. Ltd.
+China	Alcatel	subsidiary of TCL Corporation
+China	Amoi	
+China	BBK	
+China	Coolpad	subsidiary of LeEco
+China	Cubot	
+China	Gfive	
+China	Gionee	
+China	Haier	
+China	Hisense	
+China	Honor	subsidiary of Huawei
+China	Huawei	
+China	Konka	
+China	LeEco	
+China	Lenovo	
+China	Meizu	
+China	Ningbo Bird	
+China	OnePlus	subsidiary of BBK
+China	Oppo	subsidiary of BBK
+China	Smartisan	
+China	TCL Corporation	
+China	Technology Happy Life	
+China	Tecno Mobile	
+China	Vivo	subsidiary of BBK
+China	Vsun	
+China	Wasam	
+China	Xiaomi	
+China	Zopo Mobile	
+China	ZTE	
+China	ZUK Mobile	subsidiary of Lenovo
+Czech Republic	Jablotron	
+Czech Republic	Verzo	
+Egypt	SICO Technology	
+Finland	Jolla	
+Finland	Nokia Corporation	hardware development delegated to third party
+Finland	HMD Global	develops Nokia-branded features phones, as well as smartphones in partnership with Nokia Corporation
+France	Archos	
+France	Groupe Bull	
+France	MobiWire	formerly Sagem Wireless
+France	Wiko	
+Germany	Gigaset	
+Germany	Medion	subsidiary of Lenovo
+Germany	TechniSat	
+Germany	Tiptel	
+Greece	MLS	
+Hong Kong	X-tigi Mobile	
+India	CREO	
+India	Celkon	
+India	iball	
+India	Intex Technologies	
+India	Karbonn Mobiles	
+India	Lava International	
+India	HCL	
+India	Jio	
+India	LYF	
+India	Micromax Informatics	
+India	Onida Electronics	
+India	Spice X	
+India	Spice Digital	
+India	Videocon	
+India	Xolo	subsidiary of Lava International
+India	YU Televentures	subsidiary of Micromax Informatics
+Indonesia	Nexian	
+Indonesia	Evercoss	
+Indonesia	MITO	
+Indonesia	Polytron	
+Indonesia	Advan
+Italy	Brondi	
+Italy	New Generation Mobile	
+Italy	Olivetti	
+Italy	Onda Mobile Communication	
+Japan	Fujitsu	
+Japan	Kyocera	
+Japan	NEC-Casio(NEC/Casio/Hitachi)	
+Japan	Panasonic	
+Japan	Sansui	
+Japan	Sharp	
+Japan	Sony	
+Japan	DoCoMo	
+Latvia	Just5	
+Malaysia	M Dot	
+Malaysia	Ninetology	
+Mexico	Kyoto Electronics	
+Mexico	Lanix	
+Mexico	Zonda	
+Netherlands	Fairphone	
+Netherlands	John's Phone	
+Netherlands	Philips	
+North Korea	Koryolink[citation needed]	
+Pakistan	QMobile	
+Pakistan	Voice Mobile	
+Philippines	Cherry Mobile	Brand by Cosmic Technologies
+Philippines	Starmobile	
+Philippines	MyPhone	Brand by Solid Group
+Philippines	Torque	Topstrasse Global
+Poland	Kruger&Matz	
+Poland	Manta Multimedia	
+Poland	myPhone	
+Romania	Allview	
+Romania	Evolio	
+Romania	E-Boda	
+Romania	Myria	
+Romania	Utok	
+Russia	Beeline	
+Russia	Explay	become subsidiary of Fly in 2015[1]
+Russia	Gresso	
+Russia	Highscreen	
+Russia	Megafon	
+Russia	MTS	
+Russia	RoverPC	
+Russia	teXet	
+Russia	Sitronics	
+Russia	Yotaphone	
+South Korea	KT Tech	
+South Korea	LG	
+South Korea	Pantech	
+South Korea	Samsung	
+Spain	BQ	
+Spain	GeeksPhone	
+Sweden	Doro	
+Taiwan	Acer	
+Taiwan	Asus	
+Taiwan	BenQ	
+Taiwan	DBTel	
+Taiwan	Dopod	
+Taiwan	Foxconn	
+Taiwan	Gigabyte Technology	
+Taiwan	HTC	
+Thailand	AIS	
+Thailand	DTAC	
+Thailand	True	
+Thailand	Wellcom	
+Thailand	I-Mobile	
+Tunisia	EvertekTunisie	
+Turkey	Aselsan	
+Turkey	Vestel	
+United Arab Emirates	Thuraya	
+United Kingdom	Binatone	
+United Kingdom	Bullitt Group	
+United Kingdom	Kazam	
+United Kingdom	Marshall Amplification	
+United Kingdom	Vodafone	
+United Kingdom	Wileyfox	
+United States	Apple	
+United States	BLU Products	
+United States	Caterpillar	
+United States	Essential Products	
+United States	Firefly	
+United States	Garmin	
+United States	Google	
+United States	HP	
+United States	InFocus	
+United States	InfoSonics[2]	
+United States	Motorola Mobility	subsidiary of Lenovo
+United States	Obi Worldphone	
+United States	Nextbit	
+Zimbabwe	GTel	
